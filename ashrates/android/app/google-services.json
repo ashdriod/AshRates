@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468334152829",
+    "firebase_url": "https://ashrates-d1f65.firebaseio.com",
+    "project_id": "ashrates-d1f65",
+    "storage_bucket": "ashrates-d1f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468334152829:android:70755d8a5deea2b2423514",
+        "android_client_info": {
+          "package_name": "com.example.ashrates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468334152829-i18kpb0ivhe9hl4p5silichlgruf9ukg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1ZB9_tuIuKsBkMP_MptCdPCC8cenqaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468334152829-i18kpb0ivhe9hl4p5silichlgruf9ukg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
